@@ -1,1 +1,28 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: #0e7e12;
+}
+.container {
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 250px;
+  height: 350px;
+  text-align: center;
+  justify-items: center;
+  margin-left: 40%;
+  background-color: #ebcb6a;
+}
+#numero {
+  font-size: 200px;
+  margin: auto;
+}
+#palos {
+  text-align: start;
+  margin: 0 0 0 20px;
+  font-size: 40px;
+}
+
+#palos2 {
+  text-align: end;
+  margin: 25px 20px 0 0;
+  font-size: 40px;
+}
